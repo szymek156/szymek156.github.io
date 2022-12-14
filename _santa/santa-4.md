@@ -3,4 +3,5 @@ layout: default
 title: "Santa 4"
 permalink: /santa-magic
 ---
-# Answer for 4
+# Answer 4: 4RFWZ
+![](/_santa/a4.gif)

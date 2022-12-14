@@ -3,4 +3,6 @@ layout: default
 title: "Santa 3"
 permalink: /santa-avecesar
 ---
-# Answer for 3
+# Answer 3: 627MV
+
+![](/_santa/a3.gif)
